@@ -61,7 +61,11 @@ body {
     font-size: 1.5em;
 }
 
-.upside h3 {
+h2 {
+    font-size: 1.13em;
+}
+
+.upside h2 {
     color: var(--primary-bright-yellow);
     margin: 8% 0;
     /* font-size: 1.781vh; */
@@ -81,7 +85,7 @@ body {
     background-color: var(--primary-cyan);
 }
 
-.lower-left-side h3 {
+.lower-left-side h2 {
     color: var(--light-white);
 }
 
@@ -131,7 +135,7 @@ button {
     border-bottom-right-radius: 1vh;
 }
 
-.lower-right-side h3 {
+.lower-right-side h2 {
     margin-bottom: 8%;
 }
 
@@ -162,7 +166,7 @@ li {
         padding: 5% 7%;
         font-size: 1.7vh;
     }
-    .upside h3 {
+    .upside h2 {
         margin: 4% 0 2% 0;
     }
     .upside p {
